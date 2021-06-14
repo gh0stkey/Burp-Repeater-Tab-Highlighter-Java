@@ -5,3 +5,4 @@ dist/
 out/
 *.cfg
 *.iml
+.DS_Store
